@@ -1,6 +1,6 @@
-# 🧮 FakeCalc – A Performance Prop
+# 🧮 FakeCalc
 
-This project creates a **fake iPhone Calculator app** for use in magic routines, social engineering, or just mischievous fun. It loads a fullscreen image that mimics the real iOS calculator—untouchable, perfectly positioned, and visually identical.
+This project creates a **fake iPhone Calculator app** for use in magic routines. It loads a fullscreen image that mimics the real iOS calculator—untouchable, perfectly positioned, and visually identical.
 
 👉 **[Launch the illusion](https://andyjermann.github.io/fakecalc)**  
 *Optimized specifically for iPhone 15 Pro Max*
