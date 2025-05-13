@@ -46,25 +46,24 @@ Follow these steps to create a version tailored to your own device:
 
 ---
 
-### 5. Add to Home Screen (and Customize the Icon)
+### 5. Add to Home Screen
 
-- Open your site in **Safari**
-- Tap **Share → Add to Home Screen**
-- Tap the tiny icon next to the site name
-- Tap **Choose Photo**
-- Select the provided iOS-style icon image: [`calc-icon.png`](https://github.com/andyjermann/fakecalc/blob/main/calc-icon.png)
-- Rename the app to: `Calculator`
+To complete the illusion and make the fake app indistinguishable from the real one:
+
+1. Open your GitHub Pages site in **Safari**
+2. Tap **Share → Add to Home Screen**
+3. Rename the app to: **Calculator**
+4. Tap **Add**
+
+> 🧠 The Calculator icon (`calc-icon.png`) is already included in this project. When you add it to your Home Screen, Safari will automatically use it as the app icon—no extra steps required.
 
 
----
-
-## 🎭 Optional Magic Touches
 
 Want to switch to the **real Calculator app** mid-performance?
 
 Try:
 - Setting up a **Shortcut** that opens Calculator
-- Trigger it with a **Back Tap**, **triple-click**, or the **Action Button** (on supported models)
+- Trigger it with a Back Tap, triple-click of the Side Button (via Accessibility Shortcut), or the Action Button (on supported models)
 - Result: you flip the phone face-up… and the prediction is already there. 🔥
 
 ---
