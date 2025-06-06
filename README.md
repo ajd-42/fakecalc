@@ -55,24 +55,23 @@ Follow these steps to create a version tailored to your own device:
 
 To complete the illusion and make the fake app indistinguishable from the real one:
 
-1. Open your GitHub Pages site in **Safari**
-2. Tap **Share → Add to Home Screen**
-3. Rename the app to: **Calculator**
-4. Tap **Add**
+1. Open your GitHub Pages site in **Chrome**
+2. Tap **... → 📱Add to Home Screen**
+3. Tap **Add**
 
-> 🧠 The Calculator icon (`calc-icon.png`) is already included in this project. When you add it to your Home Screen, Safari will automatically use it as the app icon—no extra steps required.
-
+> 🧠 The Calculator icon (`calc-icon.png`) is already included in this project. When you add it to your Home Screen, Chrome will automatically use it as the app icon—no extra steps required.
 
 
 Want to switch to the **real Calculator app** mid-performance?
 
 Try:
-- Setting up a **Shortcut** that opens Calculator
-- Trigger it with a Back Tap, triple-click of the Side Button (via Accessibility Shortcut), or the Action Button (on supported models)
-- Result: you flip the phone face-up… and the prediction is already there. 🔥
+- In Android settings, search for "Use Quick Tap" and enable it
+- Select the "Open app" option, and choose the copy of "Calculator" that doesn't have a settings gear icon ⚙️ next to it (this is the web app)
+- Result: Tap the back of the phone twice, and it switches to Calculator. 🔥
+- This is a little awkward, and those more dedicated than me (or me when I have the time) can try setting up a Tasker or Automate flow so that, when you're in the fake "Calculator", flipping the phone switches to the real Calculator app.
 
 ---
 
 ## 🙏 Credits
 
-This project was created by [andyjermann](https://github.com/andyjermann) and updated for android by [ajd-42](https://github.com/ajd-42) 
+This project was created by [andyjermann](https://github.com/andyjermann) and updated for Android by [ajd-42](https://github.com/ajd-42) 
