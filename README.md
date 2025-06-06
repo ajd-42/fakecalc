@@ -1,6 +1,6 @@
 # 🧮 FakeCalc
 
-This project creates a **fake iPhone Calculator app** for use in magic routines. It loads a fullscreen image that mimics the real android calculator—untouchable, perfectly positioned, and visually identical. It also has a blinking cursor and vibrates whenever you tap anywhere on the screen, so it'll feel like you've really pressed a button.
+This project creates a **fake Android Calculator app** for use in magic routines. It loads a fullscreen image that mimics the real Android calculator—untouchable, perfectly positioned, and visually identical. It also has a blinking cursor and vibrates whenever you tap anywhere on the screen, so it'll feel like you've really pressed a button.
 
 👉 **[Launch the illusion](https://ajd-42.github.io/fakecalc)**  
 *Optimized specifically for Google Pixel 9 Pro*
