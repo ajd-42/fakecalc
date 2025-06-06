@@ -25,7 +25,7 @@ Follow these steps to create a version tailored to your own device:
 
 ### 2. Crop the Screenshot
 - Open the image in **Photos → Edit**
-- Crop off the **top status bar** (time, battery, etc.) and the **bottom gesture/navigation bar&&
+- Crop off the **top status bar** (time, battery, etc.) and the **bottom gesture/navigation bar**
 - Save the image as `calc-zero-cursor.png`
 - In your preferred image editor, paint out the cursor (so that everything else aligns exactly the same)
 - Save the image as `calc-zero.png`
